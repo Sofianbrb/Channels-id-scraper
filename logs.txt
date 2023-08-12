@@ -14,3 +14,63 @@ Removed channels: []
 Added channels: []
 --------------------------
 
+
+2023-08-12 10:26
+Removed channels: ['🌠┃activity (text channel)', '📜┃rules (text channel)', '📢┃announcements (announcement channel)', '🧻┃shitpost (text channel)', '💫┃roles (text channel)', '📩┃recruitment (text channel)', '📋┃conditions (text channel)', '💎┃our-pub (text channel)', '🤝┃partnerships (text channel)', '🎯┃giveaways-drops (text channel)', '📊┃polls (text channel)', '❓┃qotd (text channel)', '💡┃suggestions (text channel)', '🎥┃streams-videos (text channel)', '🎤┃discord-sings (text channel)', '🤖┃idées-jeux (text channel)', '🔷┃rules-event (text channel)', '📣┃infos (text channel)', '💙┃event (text channel)', '💙┃eventvoc (voice channel), 0 users', '💬┃general (text channel)', '🦾┃bot (text channel)', 'unread, 🌐┃media (text channel)', '🎨┃vos-créations (text channel)', '🎵┃music (text channel)', '🎮┃gaming (text channel)', '🔞┃over-13 (text channel)', '🍹┃l-élite (text channel)', '✒┃belles-paroles (text channel)', '📸┃selfies (text channel)', '😨┃horror (text channel)', '🎵┃songs-bot (text channel)', '🔉┃speak! (voice channel), 0 users', '🎥┃streaming (voice channel), 0 users', '🎵┃music (voice channel), 0 users', '📌┃event-scratch (text channel)', '🧠┃tutorials (text channel)', '📰┃scratch-news (text channel)', '📡┃extensions (text channel)', '🙀┃best-projects (text channel)', '🐈┃scratch-general (text channel)', '💭┃creations (text channel)', '🙏┃help (text channel)', '👋┃scratch-ads (text channel)', '🤝┃event-collab (text channel)', '🎲┃your-games (text channel)', '💻┃ scratch stream (voice channel), 0 users', '💻┃general-code (text channel)', '📃┃your-codes (text channel)', '❓┃aide (text channel)']
+Added channels: ['🌠┃activity', '📜┃rules', '📢┃announcements', '🧻┃shitpost', '💫┃roles', '📩┃recruitment', '📋┃conditions', '💎┃our-pub', '🤝┃partnerships', '🎯┃giveaways-drops', '📊┃polls', '❓┃qotd', '💡┃suggestions', '🎥┃streams-videos', '🎤┃discord-sings', '🤖┃idées-jeux', '🔷┃rules-event', '📣┃infos', '💙┃event', '0', '💬┃general', '🦾┃bot', '🌐┃media', '🎨┃vos-créations', '🎵┃music', '🎮┃gaming', '🔞┃over-13', '🍹┃l-élite', '✒┃belles-paroles', '📸┃selfies', '😨┃horror', '🎵┃songs-bot', '📌┃event-scratch', '🧠┃tutorials', '📰┃scratch-news', '📡┃extensions', '🙀┃best-projects', '🐈┃scratch-general', '💭┃creations', '🙏┃help', '👋┃scratch-ads', '🤝┃event-collab', '🎲┃your-games', '💻┃general-code', '📃┃your-codes', '❓┃aide']
+--------------------------
+
+
+2023-08-12 10:28
+Removed channels: ['🌠┃activity (text channel)', '📜┃rules (text channel)', '📢┃announcements (announcement channel)', '🧻┃shitpost (text channel)', '💫┃roles (text channel)', '📩┃recruitment (text channel)', '📋┃conditions (text channel)', '💎┃our-pub (text channel)', '🤝┃partnerships (text channel)', '🎯┃giveaways-drops (text channel)', '📊┃polls (text channel)', '❓┃qotd (text channel)', '💡┃suggestions (text channel)', '🎥┃streams-videos (text channel)', '🎤┃discord-sings (text channel)', '🤖┃idées-jeux (text channel)', '🔷┃rules-event (text channel)', '📣┃infos (text channel)', '💙┃event (text channel)', '💙┃eventvoc (voice channel), 0 users', '💬┃general (text channel)', '🦾┃bot (text channel)', 'unread, 🌐┃media (text channel)', '🎨┃vos-créations (text channel)', '🎵┃music (text channel)', '🎮┃gaming (text channel)', '🔞┃over-13 (text channel)', '🍹┃l-élite (text channel)', '✒┃belles-paroles (text channel)', '📸┃selfies (text channel)', '😨┃horror (text channel)', '🎵┃songs-bot (text channel)', '🔉┃speak! (voice channel), 0 users', '🎥┃streaming (voice channel), 0 users', '🎵┃music (voice channel), 0 users', '📌┃event-scratch (text channel)', '🧠┃tutorials (text channel)', '📰┃scratch-news (text channel)', '📡┃extensions (text channel)', '🙀┃best-projects (text channel)', '🐈┃scratch-general (text channel)', '💭┃creations (text channel)', '🙏┃help (text channel)', '👋┃scratch-ads (text channel)', '🤝┃event-collab (text channel)', '🎲┃your-games (text channel)', '💻┃ scratch stream (voice channel), 0 users', '💻┃general-code (text channel)', '📃┃your-codes (text channel)', '❓┃aide (text channel)']
+Added channels: ['🌠┃activity', '📜┃rules', '📢┃announcements', '🧻┃shitpost', '💫┃roles', '📩┃recruitment', '📋┃conditions', '💎┃our-pub', '🤝┃partnerships', '🎯┃giveaways-drops', '📊┃polls', '❓┃qotd', '💡┃suggestions', '🎥┃streams-videos', '🎤┃discord-sings', '🤖┃idées-jeux', '🔷┃rules-event', '📣┃infos', '💙┃event', '0', '💬┃general', '🦾┃bot', '🌐┃media', '🎨┃vos-créations', '🎵┃music', '🎮┃gaming', '🔞┃over-13', '🍹┃l-élite', '✒┃belles-paroles', '📸┃selfies', '😨┃horror', '🎵┃songs-bot', '📌┃event-scratch', '🧠┃tutorials', '📰┃scratch-news', '📡┃extensions', '🙀┃best-projects', '🐈┃scratch-general', '💭┃creations', '🙏┃help', '👋┃scratch-ads', '🤝┃event-collab', '🎲┃your-games', '💻┃general-code', '📃┃your-codes', '❓┃aide']
+--------------------------
+
+
+2023-08-12 10:28
+Removed channels: []
+Added channels: []
+--------------------------
+
+
+2023-08-12 10:35
+Removed channels: []
+Added channels: []
+Renamed channels: ['🌐┃pasmedia -> 🌐┃media']
+--------------------------
+
+
+2023-08-12 10:36
+Removed channels: []
+Added channels: ['🎨┃vos-créations']
+Renamed channels: []
+--------------------------
+
+
+2023-08-12 10:36
+Removed channels: []
+Added channels: ['🌐┃media']
+Renamed channels: ['🎨┃vosges-créations -> 🎨┃vos-créations']
+--------------------------
+
+
+2023-08-12 10:37
+Removed channels: ['🎵┃musdede']
+Added channels: ['🌐┃media', '🎵┃music']
+Renamed channels: ['🎨┃vosges-créations -> 🎨┃vos-créations']
+--------------------------
+
+
+2023-08-12 10:39
+Removed channels: []
+Added channels: []
+Renamed channels: []
+--------------------------
+
+
+2023-08-12 10:39
+Removed channels: []
+Added channels: ['🌐┃media (ID: 1062423755961401405))']
+Renamed channels: ['🎨┃vosges-créations (ID: 1050158239507025960) -> 🎨┃vos-créations (ID: 1050158239507025960)']
+--------------------------
+

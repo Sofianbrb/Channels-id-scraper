@@ -1,52 +1,278 @@
 {
-    "\ud83c\udf20\u2503activity (text channel)": "987350467510153216",
-    "\ud83d\udcdc\u2503rules (text channel)": "941257403087876096",
-    "\ud83d\udce2\u2503announcements (announcement channel)": "987417227013812324",
-    "\ud83e\uddfb\u2503shitpost (text channel)": "1053705295861399684",
-    "\ud83d\udcab\u2503roles (text channel)": "987369529648754690",
-    "\ud83d\udce9\u2503recruitment (text channel)": "1073318810649624689",
-    "\ud83d\udccb\u2503conditions (text channel)": "1072997799404253194",
-    "\ud83d\udc8e\u2503our-pub (text channel)": "1072997733172002816",
-    "\ud83e\udd1d\u2503partnerships (text channel)": "987378372730560573",
-    "\ud83c\udfaf\u2503giveaways-drops (text channel)": "1049379968439828571",
-    "\ud83d\udcca\u2503polls (text channel)": "1049380085905510541",
-    "\u2753\u2503qotd (text channel)": "1049385128092237917",
-    "\ud83d\udca1\u2503suggestions (text channel)": "1064246558830379098",
-    "\ud83c\udfa5\u2503streams-videos (text channel)": "1073295893207470092",
-    "\ud83c\udfa4\u2503discord-sings (text channel)": "1077539822505299978",
-    "\ud83e\udd16\u2503id\u00e9es-jeux (text channel)": "1082357718913925140",
-    "\ud83d\udd37\u2503rules-event (text channel)": "1108081951052681276",
-    "\ud83d\udce3\u2503infos (text channel)": "1108080595042582588",
-    "\ud83d\udc99\u2503event (text channel)": "1108080389295181854",
-    "\ud83d\udc99\u2503eventvoc (voice channel), 0 users": "1109823848158855168",
-    "\ud83d\udcac\u2503general (text channel)": "1049384980901539912",
-    "\ud83e\uddbe\u2503bot (text channel)": "1049385098434314330",
-    "unread, \ud83c\udf10\u2503media (text channel)": "1062423755961401405",
-    "\ud83c\udfa8\u2503vos-cr\u00e9ations (text channel)": "1050158239507025960",
-    "\ud83c\udfb5\u2503music (text channel)": "1058104184211255326",
-    "\ud83c\udfae\u2503gaming (text channel)": "1073972359389773874",
-    "\ud83d\udd1e\u2503over-13 (text channel)": "1065648018197581824",
-    "\ud83c\udf79\u2503l-\u00e9lite (text channel)": "1120086297575424110",
-    "\u2712\u2503belles-paroles (text channel)": "1076662824660635690",
-    "\ud83d\udcf8\u2503selfies (text channel)": "1089474148956381277",
-    "\ud83d\ude28\u2503horror (text channel)": "1115923730359664683",
-    "\ud83c\udfb5\u2503songs-bot (text channel)": "1117064782995013712",
-    "\ud83d\udd09\u2503speak! (voice channel), 0 users": "1052700049664131124",
-    "\ud83c\udfa5\u2503streaming (voice channel), 0 users": "1069177319136186388",
-    "\ud83c\udfb5\u2503music (voice channel), 0 users": "1117064129740546049",
-    "\ud83d\udccc\u2503event-scratch (text channel)": "1119617302816628736",
-    "\ud83e\udde0\u2503tutorials (text channel)": "1049381477562978387",
-    "\ud83d\udcf0\u2503scratch-news (text channel)": "1049381542805372988",
-    "\ud83d\udce1\u2503extensions (text channel)": "1049381636342562878",
-    "\ud83d\ude40\u2503best-projects (text channel)": "1049382089696481371",
-    "\ud83d\udc08\u2503scratch-general (text channel)": "1063151512735465502",
-    "\ud83d\udcad\u2503creations (text channel)": "1049381338039472138",
-    "\ud83d\ude4f\u2503help (text channel)": "1049384452918354062",
-    "\ud83d\udc4b\u2503scratch-ads (text channel)": "1049382558472876072",
-    "\ud83e\udd1d\u2503event-collab (text channel)": "1119628556906016779",
-    "\ud83c\udfb2\u2503your-games (text channel)": "1067949253416210522",
-    "\ud83d\udcbb\u2503 scratch stream (voice channel), 0 users": "1049383125710536796",
-    "\ud83d\udcbb\u2503general-code (text channel)": "1072280819386830948",
-    "\ud83d\udcc3\u2503your-codes (text channel)": "1072281255636377640",
-    "\u2753\u2503aide (text channel)": "1072281318857134151"
+    "\ud83c\udf20\u2503activity": [
+        {
+            "id": "987350467510153216",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udcdc\u2503rules": [
+        {
+            "id": "941257403087876096",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udce2\u2503announcements": [
+        {
+            "id": "987417227013812324",
+            "type": "announcement channel"
+        }
+    ],
+    "\ud83e\uddfb\u2503shitpost": [
+        {
+            "id": "1053705295861399684",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udcab\u2503roles": [
+        {
+            "id": "987369529648754690",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udce9\u2503recruitment": [
+        {
+            "id": "1073318810649624689",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udccb\u2503conditions": [
+        {
+            "id": "1072997799404253194",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udc8e\u2503our-pub": [
+        {
+            "id": "1072997733172002816",
+            "type": "text channel"
+        }
+    ],
+    "\ud83e\udd1d\u2503partnerships": [
+        {
+            "id": "987378372730560573",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udfaf\u2503giveaways-drops": [
+        {
+            "id": "1049379968439828571",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udcca\u2503polls": [
+        {
+            "id": "1049380085905510541",
+            "type": "text channel"
+        }
+    ],
+    "\u2753\u2503qotd": [
+        {
+            "id": "1049385128092237917",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udca1\u2503suggestions": [
+        {
+            "id": "1064246558830379098",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udfa5\u2503streams-videos": [
+        {
+            "id": "1073295893207470092",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udfa4\u2503discord-sings": [
+        {
+            "id": "1077539822505299978",
+            "type": "text channel"
+        }
+    ],
+    "\ud83e\udd16\u2503id\u00e9es-jeux": [
+        {
+            "id": "1082357718913925140",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udd37\u2503rules-event": [
+        {
+            "id": "1108081951052681276",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udce3\u2503infos": [
+        {
+            "id": "1108080595042582588",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udc99\u2503event": [
+        {
+            "id": "1108080389295181854",
+            "type": "text channel"
+        }
+    ],
+    "0": [
+        {
+            "id": "1049383125710536796",
+            "type": "voice channel"
+        }
+    ],
+    "\ud83d\udcac\u2503general": [
+        {
+            "id": "1049384980901539912",
+            "type": "text channel"
+        }
+    ],
+    "\ud83e\uddbe\u2503bot": [
+        {
+            "id": "1049385098434314330",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udf10\u2503media": [
+        {
+            "id": "1062423755961401405",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udfa8\u2503vos-cr\u00e9ations": [
+        {
+            "id": "1050158239507025960",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udfb5\u2503music": [
+        {
+            "id": "1058104184211255326",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udfae\u2503gaming": [
+        {
+            "id": "1073972359389773874",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udd1e\u2503over-13": [
+        {
+            "id": "1065648018197581824",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udf79\u2503l-\u00e9lite": [
+        {
+            "id": "1120086297575424110",
+            "type": "text channel"
+        }
+    ],
+    "\u2712\u2503belles-paroles": [
+        {
+            "id": "1076662824660635690",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udcf8\u2503selfies": [
+        {
+            "id": "1089474148956381277",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\ude28\u2503horror": [
+        {
+            "id": "1115923730359664683",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udfb5\u2503songs-bot": [
+        {
+            "id": "1117064782995013712",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udccc\u2503event-scratch": [
+        {
+            "id": "1119617302816628736",
+            "type": "text channel"
+        }
+    ],
+    "\ud83e\udde0\u2503tutorials": [
+        {
+            "id": "1049381477562978387",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udcf0\u2503scratch-news": [
+        {
+            "id": "1049381542805372988",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udce1\u2503extensions": [
+        {
+            "id": "1049381636342562878",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\ude40\u2503best-projects": [
+        {
+            "id": "1049382089696481371",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udc08\u2503scratch-general": [
+        {
+            "id": "1063151512735465502",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udcad\u2503creations": [
+        {
+            "id": "1049381338039472138",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\ude4f\u2503help": [
+        {
+            "id": "1049384452918354062",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udc4b\u2503scratch-ads": [
+        {
+            "id": "1049382558472876072",
+            "type": "text channel"
+        }
+    ],
+    "\ud83e\udd1d\u2503event-collab": [
+        {
+            "id": "1119628556906016779",
+            "type": "text channel"
+        }
+    ],
+    "\ud83c\udfb2\u2503your-games": [
+        {
+            "id": "1067949253416210522",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udcbb\u2503general-code": [
+        {
+            "id": "1072280819386830948",
+            "type": "text channel"
+        }
+    ],
+    "\ud83d\udcc3\u2503your-codes": [
+        {
+            "id": "1072281255636377640",
+            "type": "text channel"
+        }
+    ],
+    "\u2753\u2503aide": [
+        {
+            "id": "1072281318857134151",
+            "type": "text channel"
+        }
+    ]
 }
