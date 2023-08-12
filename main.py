@@ -31,24 +31,22 @@ renamed = []
 
 # First case: channel removed
 for channel in oldchannels:
-	if channel not in channels:
 		if oldchannels[channel][0]["id"] not in [channel[0]["id"] for channel in channels.values()]:
 			removed.append(f"{channel} (ID: {oldchannels[channel][0]['id']}))")
 
 # Second case: channel added
 for channel in channels:
-	if channel not in oldchannels:
 		if channels[channel][0]["id"] not in [channel[0]["id"] for channel in oldchannels.values()]:
-			added.append(f"{channel} (ID: {channels[channel][0]['id']}))")
+			added.append(f"{channel} (ID: {channels[channel][0]['id']})")
 
 # Third case: channel renamed
-for channel in channels:
-	if channel not in oldchannels:
-		if channels[channel][0]["id"] in [channel[0]["id"] for channel in oldchannels.values()]:
-			# We need to find the old name of the channel
-			for oldchannel in oldchannels:
-				if channels[channel][0]["id"] == oldchannels[oldchannel][0]["id"]:
-					renamed.append(f"{oldchannel} (ID: {channels[channel][0]['id']}) -> {channel} (ID: {channels[channel][0]['id']})")
+
+for channel in oldchannels:
+	if oldchannels[channel][0]["id"] in [channel[0]["id"] for channel in channels.values()]:
+		for newchannel in channels:
+			if oldchannels[channel][0]["id"] == channels[newchannel][0]["id"]:
+				if channel != newchannel:
+					renamed.append(f"{channel} (ID: {oldchannels[channel][0]['id']}) -> {newchannel} (ID: {channels[newchannel][0]['id']})")
 
 print("Removed channels: " + str(removed))
 print("Added channels: " + str(added))
@@ -57,7 +55,7 @@ print("Renamed channels: " + str(renamed))
 with open('channels.json', 'w') as file:
 	json.dump(channels, file, indent=4)
 
-with open('logs.txt', 'a') as file:
+with open('logs.txt', 'a') as file:	
 	file.write('\n')
 	file.write(str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M")))
 	file.write('\n')
@@ -70,31 +68,3 @@ with open('logs.txt', 'a') as file:
 	file.write('--------------------------')
 	file.write('\n')
 	file.write('\n')
-
-
-
-
-"""for channel in oldchannels:
-	if channel not in channels:
-		removed.append(channel)
-for channel in channels:
-	if channel not in oldchannels:
-		added.append(channel)
-
-print("Removed channels: " + str(removed))
-print("Added channels: " + str(added))
-
-with open('channels.json', 'w') as file:
-	json.dump(channels, file, indent=4)
-
-with open('logs.txt', 'a') as file:
-	file.write('\n')
-	file.write(str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M")))
-	file.write('\n')
-	file.write('Removed channels: ' + str(removed))
-	file.write('\n')
-	file.write('Added channels: ' + str(added))
-	file.write('\n')
-	file.write('--------------------------')
-	file.write('\n')
-	file.write('\n')"""

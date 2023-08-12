@@ -74,3 +74,24 @@ Added channels: ['🌐┃media (ID: 1062423755961401405))']
 Renamed channels: ['🎨┃vosges-créations (ID: 1050158239507025960) -> 🎨┃vos-créations (ID: 1050158239507025960)']
 --------------------------
 
+
+2023-08-12 16:01
+Removed channels: ['🎮┃gaming (ID: 107397235d9389773874))']
+Added channels: ['🎨┃vos-créations (ID: 1050158239507025960)', '🎮┃gaming (ID: 1073972359389773874)']
+Renamed channels: ['🌐┃medeeeeia (ID: 1062423755961401405) -> 🌐┃media (ID: 1062423755961401405)', '🎵┃emusic (ID: 1058104184211255326) -> 🎵┃music (ID: 1058104184211255326)']
+--------------------------
+
+
+2023-08-12 16:01
+Removed channels: []
+Added channels: []
+Renamed channels: []
+--------------------------
+
+
+2023-08-12 16:03
+Removed channels: ['🎨┃vos-créations (ID: d1050158239507025960))']
+Added channels: ['🌐┃media (ID: 1062423755961401405)', '🎨┃vos-créations (ID: 1050158239507025960)']
+Renamed channels: ['🎵┃dmusic (ID: 1058104184211255326) -> 🎵┃music (ID: 1058104184211255326)']
+--------------------------
+
